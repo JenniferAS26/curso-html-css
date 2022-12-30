@@ -1,0 +1,20 @@
+
+/* Hermano cercano */
+/* h2 + p {
+    color: coral;
+} */
+
+/* Hermano General */
+/* h2 ~ p {
+    color: rgb(68, 185, 189);
+} */
+
+/* Hijo */
+/* div > p {
+    color: cornflowerblue;
+} */
+
+/* Descendiente */
+div p {
+    color: cornflowerblue;
+}

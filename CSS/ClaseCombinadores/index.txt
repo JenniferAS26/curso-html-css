@@ -1,0 +1,23 @@
+/* Para hermano cercano y general*/
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinadores</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div>
+        <h2>Soy un h2</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus totam quidem minus dicta sequi dignissimos sed earum, distinctio a explicabo provident, modi eligendi quo harum sint dolores et perspiciatis animi!Lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti magnam dolorem sunt eveniet sapiente consectetur error nesciunt dignissimos! Inventore perspiciatis repellendus ducimus. Sint repellat accusantium corporis totam fuga beatae explicabo?</p>
+        <h3>Soy otro h2</h3>
+        <p>Soy otro parrafo Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus totam quidem minus dicta sequi dignissimos sed earum, distinctio a explicabo provident, modi eligendi quo harum sint dolores et perspiciatis animi!Lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti magnam dolorem sunt eveniet sapiente consectetur error nesciunt dignissimos! Inventore perspiciatis repellendus ducimus. Sint repellat accusantium corporis totam fuga beatae explicabo?</p>
+        <h2>Soy un nuevo h2</h2>
+        <p>Soy otro parrafo nuevo Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus totam quidem minus dicta sequi dignissimos sed earum, distinctio a explicabo provident, modi eligendi quo harum sint dolores et perspiciatis animi!Lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti magnam dolorem sunt eveniet sapiente consectetur error nesciunt dignissimos! Inventore perspiciatis repellendus ducimus. Sint repellat accusantium corporis totam fuga beatae explicabo?</p>
+    </div>
+</body>
+</html>

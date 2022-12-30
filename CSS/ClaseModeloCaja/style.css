@@ -1,0 +1,15 @@
+/*Resetear los estilos que pone el navegador*/
+
+* { /*Siempre arriba para olvidarnos de estas correcciones*/
+    box-sizing: border-box; /*Para eliminar el scroll horizontal*/
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100%; /*ancho*/
+    height: 500px;
+    border: 10px solid gray;
+    padding: 20px 35px; /*20px de arriba-abajo 35px de derecha-izquierda*/
+
+}

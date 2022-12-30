@@ -1,0 +1,26 @@
+.main-nav{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px; /*Padding es una dimension interna que estamos dando en un contenedor*/
+    background-color: #279b9b; /*Agregar color de fondo*/
+}
+
+.main-nav__item{
+    display: inline-block; /*Para alinear horizontal*/
+}
+.main-nav__item a{
+    color: rgb(248, 248, 248);
+    padding: 5px;
+    border-radius: 2px; /*Redondea los bordes de las cajas*/
+    text-decoration: none;
+}
+.main-nav__item a:hover{ /*pseudo clases, mas y mas especificas cada vez, hover es que el mouse esta encima del elemento*/
+    color: rgb(63, 35, 190);
+}
+.main-nav__item a:active{
+    color: black;
+}
+
+.main-nav__item a::after{
+    content: " | ";
+}

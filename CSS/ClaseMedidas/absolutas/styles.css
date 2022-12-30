@@ -1,0 +1,17 @@
+main {
+    background-color: burlywood;
+    /* width: 100%; */
+    width: 600px;
+    height: 500px;
+
+}
+
+p { 
+    /*Medida Absoluta*/
+    /*font-size: 18px;*/ 
+    /* Medida Relativa */
+    /* font-size: 50%; */
+
+    font-size: 16px;
+    
+}

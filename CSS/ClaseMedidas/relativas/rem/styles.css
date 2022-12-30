@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%; 
+    /* 1.6rem = 16 px
+        1rem = 10px*/
+} /* Deberiamos poner siempre esto */
+
+p {
+    font-size: 1.6rem;
+}
+
+main div {
+    font-size: 1.6rem;
+}

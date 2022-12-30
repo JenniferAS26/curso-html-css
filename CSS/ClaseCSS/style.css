@@ -1,0 +1,14 @@
+p{
+    color: rgb(43, 76, 226);
+    font-size: 40px;
+}
+/*Class */
+.parrafo{
+    color: aquamarine;
+}
+
+/*ID*/
+#texto{
+    color: brown;
+    font-size: 24px;
+}

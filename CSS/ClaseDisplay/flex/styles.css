@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.container {
+    border: 0.3rem solid black; 
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-wrap: wrap;
+    /*align-items: baseline;*/ /* aunque crezca el tamaño de mi contenedor siempre va a estar alineado al centro */
+    /*height: 50vh;*/ /* modifica la altura de mi main */
+    /* flex-wrap: wrap; */
+}
+
+.box {
+    
+    /* width: 10rem; */
+    height: 10rem;
+    flex-basis: 10rem;
+    flex-grow: 1;
+
+}
+
+.box1 {
+    background-color: rgb(0, 110, 255);
+    /* flex-grow: 1; */
+    /* order: 1; */
+}
+
+.box2 {
+    background-color: rgb(162, 89, 230);
+    /* flex-grow: 1; */
+    /* order: 3; */
+}
+
+.box3 {
+    background-color: rgb(214, 112, 74);
+    /* flex-grow: 1; */
+}
+
+.box4 {
+    background-color: rgb(135, 200, 37);
+    /* flex-grow: 1; */
+}
+
+.box5 {
+    background-color: palevioletred;
+    /* flex-grow: 1; */
+    /* order: 4; */
+}
+
+.box6 {
+    background-color: cadetblue;
+    /* flex-grow: 1; */
+    /* order: 2; */
+}
+
